@@ -1,0 +1,84 @@
+/* SIZE OF IMAGES */
+/* img{
+    width: 250px;
+    height: 250px;
+} */
+/* ALIGNING IMAGES */
+/* img{
+    margin-left: 200px;
+} */
+/* img{
+    float: right;
+} */
+/* CENTERING IMAGES */
+ /* img{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: auto;
+}  */
+/* BACKGROUND IMAGES */
+/* body{
+    background-image: url(./images/pexels-pixabay-163414.jpg);
+} */
+/* background repeat */
+/* body{
+    font-size: xx-large;
+    background-image: url(./images/pexels-pixabay-163414.jpg);
+    background-attachment: scroll;
+}
+   */
+ /* background position */
+/* body{
+    
+    background-image: url(./images/pexels-pixabay-163414.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+} */
+/* background shorthand */
+/* body {
+    background: #ffffff url("images/choti\ bike") no-repeat top right;} */
+/* GRADIENTS */
+
+/* linear gradient */
+/* body{
+    background-image: linear-gradient(red,yellow);
+    background-repeat: no-repeat;
+    height: 100vh;
+} */
+/* #gradient-container {
+    height: 400px;
+    width: 400px;
+    background-color: red; 
+    background-image: linear-gradient(to right, red,
+    orange,yellow,
+    green,blue,indigo,violet);
+    margin: auto;
+  } */
+  /* radial gradient */
+   /* #gradient-container {
+    height: 400px;
+    width: 400px;
+    background-color: red; 
+    background-image: radial-gradient(red,yellow, green);
+    margin: auto;
+  }  */
+  /* conic gradient */
+    /* #gradient-container {
+    height: 400px;
+    width: 400px;
+    background-color: red; 
+    background-image: conic-gradient(red 45deg, yellow 90deg, green 210deg);
+    margin: auto;
+  }   */
+  /* #gradient-container {
+    height: 400px;
+    width: 400px;
+    background-color: red; 
+    background-image: conic-gradient(red 45deg, yellow 90deg, green 210deg);
+    border-radius: 50%;
+    margin: auto;
+  }   */
+  
+  
